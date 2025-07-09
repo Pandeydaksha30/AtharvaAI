@@ -1,1 +1,1 @@
-# AtharvaAI
+# AtharvaCare
